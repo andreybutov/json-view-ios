@@ -50,6 +50,10 @@ jsonView.layer.borderWidth = 1.0f;
 [jsonView setFrame:CGRectMake(20, 100, jsonView.frame.size.width, jsonView.frame.size.height)];
 ```
 
-### Special thanks!
+## Screenshot
+
+![JSONView for iOS](/screenshot.png?raw=true)
+
+## Special thanks
 
 I originally wrote this control as part of the implementation of the [Honeybadger](https://www.honeybadger.io/) iOS app. This open-source port of the control is made available with permission.
