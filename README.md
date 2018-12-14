@@ -1,6 +1,8 @@
 # JSONView for iOS
 
-An iOS control to display JSON and/or NSDictionary data in a friendly format.
+An iOS control to display JSON and/or NSDictionary data in a friendly format. 
+
+The Android version of this control is available [here](https://github.com/andreybutov/json-view-android).
 
 ## Installation
 
